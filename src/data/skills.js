@@ -1,6 +1,7 @@
-const languages = ["Java", "Javascript", "TypeScript", "C#"];
+const languages = ["Php", "Java", "Javascript", "TypeScript", "C#"];
 
 const frontEnd = [
+  "YII/Laravel/CI",
   "React / Next.js / React Native",
   "Vue.js / Vuetify",
   "Tailwind CSS / SCSS",
