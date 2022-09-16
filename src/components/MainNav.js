@@ -86,7 +86,7 @@ function MainNav({ openNav, showHamburger, sectionRefs }) {
         />
         <SocialLink
           type="CodePen"
-          href="https://codepen.io/jiangsim"
+          href="https://codepen.io/0x048"
           width="20px"
           height="20px"
         />

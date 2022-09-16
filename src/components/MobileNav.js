@@ -146,7 +146,7 @@ function MobileNav({ open, closeNav, sectionRefs, scrollBarWidth }) {
             />
             <SocialLink
               type="CodePen"
-              href="https://codepen.io/jiangsim"
+              href="https://codepen.io/0x048"
               width="24px"
               height="24px"
             />

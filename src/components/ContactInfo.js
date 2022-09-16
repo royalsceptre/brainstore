@@ -62,7 +62,7 @@ function ContactInfo() {
           <SocialLink
             className={anchorStyle}
             type="CodePen"
-            href="https://codepen.io/jiangsim"
+            href="https://codepen.io/0x048"
             width="32px"
             height="32px"
           />
