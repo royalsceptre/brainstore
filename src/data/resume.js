@@ -102,7 +102,7 @@ const resumePersonalInfo = [
   },
   {
     title: "Portfolio",
-    description: <a href="https://noahsim.vercel.app/">noahsim.vercel.app</a>
+    description: <a href="https://brainstore.vercel.app/">brainstore.vercel.app</a>
   },
   {
     title: "LinkedIn",

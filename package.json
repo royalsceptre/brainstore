@@ -1,7 +1,7 @@
 {
-  "name": "noahsim",
+  "name": "brainstore",
   "description": "Noah's portfolio website",
-  "author": "Noah Sim <noahsim.com> (https://noahsim.vercel.app/)",
+  "author": "Noah Sim <brainstore.com> (https://brainstore.vercel.app/)",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
